@@ -1,0 +1,10 @@
+C:\Users\manue\source\repos\EJERCICIO2FORMS\EJERCICIO2FORMS\bin\Debug\EJERCICIO2FORMS.exe.config
+C:\Users\manue\source\repos\EJERCICIO2FORMS\EJERCICIO2FORMS\bin\Debug\EJERCICIO2FORMS.exe
+C:\Users\manue\source\repos\EJERCICIO2FORMS\EJERCICIO2FORMS\bin\Debug\EJERCICIO2FORMS.pdb
+C:\Users\manue\source\repos\EJERCICIO2FORMS\EJERCICIO2FORMS\obj\Debug\EJERCICIO2FORMS.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\EJERCICIO2FORMS\EJERCICIO2FORMS\obj\Debug\EJERCICIO2FORMS.Form1.resources
+C:\Users\manue\source\repos\EJERCICIO2FORMS\EJERCICIO2FORMS\obj\Debug\EJERCICIO2FORMS.Properties.Resources.resources
+C:\Users\manue\source\repos\EJERCICIO2FORMS\EJERCICIO2FORMS\obj\Debug\EJERCICIO2FORMS.csproj.GenerateResource.cache
+C:\Users\manue\source\repos\EJERCICIO2FORMS\EJERCICIO2FORMS\obj\Debug\EJERCICIO2FORMS.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\EJERCICIO2FORMS\EJERCICIO2FORMS\obj\Debug\EJERCICIO2FORMS.exe
+C:\Users\manue\source\repos\EJERCICIO2FORMS\EJERCICIO2FORMS\obj\Debug\EJERCICIO2FORMS.pdb
