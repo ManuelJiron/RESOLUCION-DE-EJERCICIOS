@@ -1,0 +1,10 @@
+C:\Users\Isaac Mora\source\repos\ejercicio1sem12\ejercicio1sem12\bin\Debug\ejercicio1sem12.exe.config
+C:\Users\Isaac Mora\source\repos\ejercicio1sem12\ejercicio1sem12\bin\Debug\ejercicio1sem12.exe
+C:\Users\Isaac Mora\source\repos\ejercicio1sem12\ejercicio1sem12\bin\Debug\ejercicio1sem12.pdb
+C:\Users\Isaac Mora\source\repos\ejercicio1sem12\ejercicio1sem12\obj\Debug\ejercicio1sem12.csproj.AssemblyReference.cache
+C:\Users\Isaac Mora\source\repos\ejercicio1sem12\ejercicio1sem12\obj\Debug\ejercicio1sem12.Form1.resources
+C:\Users\Isaac Mora\source\repos\ejercicio1sem12\ejercicio1sem12\obj\Debug\ejercicio1sem12.Properties.Resources.resources
+C:\Users\Isaac Mora\source\repos\ejercicio1sem12\ejercicio1sem12\obj\Debug\ejercicio1sem12.csproj.GenerateResource.cache
+C:\Users\Isaac Mora\source\repos\ejercicio1sem12\ejercicio1sem12\obj\Debug\ejercicio1sem12.csproj.CoreCompileInputs.cache
+C:\Users\Isaac Mora\source\repos\ejercicio1sem12\ejercicio1sem12\obj\Debug\ejercicio1sem12.exe
+C:\Users\Isaac Mora\source\repos\ejercicio1sem12\ejercicio1sem12\obj\Debug\ejercicio1sem12.pdb
